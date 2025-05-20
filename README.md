@@ -1,1 +1,1 @@
-# FFRA
+# EconometricsRA
